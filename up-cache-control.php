@@ -8,7 +8,7 @@
  * Domain Path: /languages
  */
 
-// Empêcher l'accès direct au fichier
+
 defined('ABSPATH') || exit;
 
 class Up_Cache_Control {
